@@ -1,4 +1,4 @@
-Crack By NoMoreLife :  Some Info About me : https://nomorelifee.github.io/Website/
+Crack By NoMoreLife :  Some Info About me : https://nomorelifee.github.io/InfoMe/
 
 How to use :
 1. Extract the file.
